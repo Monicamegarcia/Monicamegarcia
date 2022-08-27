@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monicamegarcia, an industrial engineer, working on operational excellence.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack python
-- 💞️ I’m looking to collaborate on projects that can help me learn and achieve experience.
+- 💞️ I’m looking to collaborate on projects that can help me learn and achieve experience. Volunteered is a nice form to help and help us.
 - 📫 How to reach me monicamegarcia@gmail.com
 
 <!---
