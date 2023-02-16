@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monicamegarcia, an industrial engineer, working on operational excellence.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack python
+- 🌱 I’m currently studying at Henry´s Bootcamp, Full stack Developer.
 - 💞️ I’m looking to collaborate on projects that can help me learn and achieve experience. Volunteering is a nice form to help and help us.
 - 📫 How to reach me monicamegarcia@gmail.com
 
