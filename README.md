@@ -1,3 +1,4 @@
+# Hi! I´m Monica M.E. Garcia 
 - 👋 Hi, I’m @Monicamegarcia, an industrial engineer, working on operational excellence.
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying at Henry´s Bootcamp, Full stack Developer.
