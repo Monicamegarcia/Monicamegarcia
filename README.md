@@ -8,6 +8,8 @@
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monicamegarcia&layout=compact)
 
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monicamegarcia&theme=dark" width="48%" >
 
 <!---
 Monicamegarcia/Monicamegarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
