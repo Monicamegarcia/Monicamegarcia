@@ -1,5 +1,5 @@
 <h1 align="center"> Monica M.E. Garcia </h1> 
-- 👋 Hi, I’m an industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
+- 👋 Hi, I’m industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
 
 ### Contact
 📫 monicamegarcia@gmail.com
@@ -26,7 +26,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 
 ### Github Streaks
