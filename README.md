@@ -1,9 +1,12 @@
+<image src="/imagenes/5177.jpg" alt="campodegirasoles">
+
+
 <h1 align="center"> Monica M.E. Garcia </h1> 
 - 👋 Hi, I’m industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
 
 ### Contact
 📫 monicamegarcia@gmail.com
-✖ https://twitter.com/MonicaMEGarcia?t=4QeehZF4Xh7Q4nua-30eNg&s=08
+✖ https://twitter.com/MonicaMEGarcia
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monicamegarcia&layout=compact)
