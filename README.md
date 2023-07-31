@@ -8,6 +8,8 @@
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monicamegarcia&layout=compact)
 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monicamegarcia&theme=dark" width="48%" >
 
