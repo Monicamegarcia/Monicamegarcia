@@ -1,14 +1,16 @@
 # Hi! I´m Monica M.E. Garcia 
-- 👋 Hi, I’m @Monicamegarcia, an industrial engineer, working on operational excellence.
-- 👀 I’m interested in coding
-- 🌱 I’m currently studying at Henry´s Bootcamp, Full stack Developer.
-- 💞️ I’m looking to collaborate on projects that can help me learn and achieve experience. Volunteering is a nice form to help and help us.
-- 📫 How to reach me monicamegarcia@gmail.com
+- 👋 Hi, I’m @Monicamegarcia, an industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
+
+### Contact
+- 📫 monicamegarcia@gmail.com
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monicamegarcia&layout=compact)
-
+ 
+### Technologies
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monicamegarcia&theme=dark" width="48%" >
