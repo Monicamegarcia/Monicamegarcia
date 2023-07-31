@@ -1,8 +1,8 @@
-# Hi! I´m Monica M.E. Garcia 
-- 👋 Hi, I’m @Monicamegarcia, an industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
+<h1 align="center"> Monica M.E. Garcia </h1> 
+- 👋 Hi, I’m an industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
 
 ### Contact
-- 📫 monicamegarcia@gmail.com
+📫 monicamegarcia@gmail.com
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   https://www.linkedin.com/in/monicamegarcia/
