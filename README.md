@@ -1,6 +1,3 @@
-<image src="/imagenes/5177.jpg" alt="campodegirasoles">
-
-
 <h1 align="center"> Monica M.E. Garcia </h1> 
 - 👋 Hi, I’m industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
 
