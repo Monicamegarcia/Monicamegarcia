@@ -32,7 +32,7 @@
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monicamegarcia&theme=dark" width="48%" >
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Monicamegarcia/ama)
 <!---
 Monicamegarcia/Monicamegarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
