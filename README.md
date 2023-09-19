@@ -1,5 +1,6 @@
 <h1 align="center"> Monica M.E. Garcia </h1> 
-- 👋 Hi, I’m industrial engineer specialized in operational excellence, full stack developer, a web3 and low-code platforms enthusiastic. 
+- 👋 Hello! I am an Industrial Engineer specialized in operational excellence and process management in various industries. Continuous improvement is my day to day, which leads me to learn and undertake constantly. I am a serial entrepreneur, I have generated businesses in trading account management, life insurance marketing and consulting among others. 
+Part of my professional improvement has been to add tech skills through the SoyHenry bootcamp (Javascript, React, Node, Sequelize, Express, Postgres, Redux). I am a web3 and low code enthusiast.
 
 ### Contact
 📫 monicamegarcia@gmail.com
